@@ -415,7 +415,7 @@ that java class would result in the following JSON (I have not tested this)
 }
 ```
 
-### Schedule: `GET /rest/v1/resultaten/afspraken`
+### Schedule: `GET /rest/v1/afspraken`
 #### Parameters
 
 |Name|Type|Value|
